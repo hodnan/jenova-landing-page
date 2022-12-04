@@ -1,0 +1,11 @@
+ .invalid{
+	background: #eac7a4;
+	border-color: #7DC27D;
+   }
+   .valid{
+   background: #f0fff0;
+   border-color: #7DC27D;
+   }
+   .select_font {
+   font-family: 'FontAwesome', Arial,Helvetica,Sans-Serif;
+   }
